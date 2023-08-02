@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1cf765de99f7f624fabfbd253a8e10ee
+timeCreated: 1511593492
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scandinavian-LightItalic
+  fontNames:
+  - Scandinavian-LightItalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

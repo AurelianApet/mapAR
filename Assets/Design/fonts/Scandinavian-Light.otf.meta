@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: ddf2ae1e8b85116419e4d1d7006535a5
+timeCreated: 1511593492
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scandinavian
+  fontNames:
+  - Scandinavian
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a4da82084bfe8e4485d85b580f93aa4, type: 3}
+  - {fileID: 12800000, guid: a3911b21293a8ef47955a436b20a557e, type: 3}
+  - {fileID: 12800000, guid: d7c48372c38a57b41aa4de584a89caa4, type: 3}
+  - {fileID: 12800000, guid: 20679a756d3ccbd4e9e59927113623e5, type: 3}
+  - {fileID: 12800000, guid: 5ac5dce73124fb647addc67f7d9fbf72, type: 3}
+  - {fileID: 12800000, guid: 527d071b351c70a46ad26c6f2c9e1ae7, type: 3}
+  - {fileID: 12800000, guid: c2faf5de7b278bb498907bbd6be196fb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4dd02cc9fbe35e545929a4db5b63dece
+timeCreated: 1511593492
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scandinavian-ExtraLight
+  fontNames:
+  - Scandinavian-ExtraLight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

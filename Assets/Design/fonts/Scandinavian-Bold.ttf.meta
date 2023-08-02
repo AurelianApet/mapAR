@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d58464709fe658d4faa4b156798d6c1e
+timeCreated: 1511593492
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scandinavian-Bold
+  fontNames:
+  - Scandinavian-Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
